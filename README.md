@@ -1,10 +1,15 @@
-- 👋 Hi, I’m Sharique Masood
-- 👀 I’m interested in DevOps, Python and Golang.
-- 🌱 I’m currently learning Banckend Development.
-- 💞️ I’m looking to collaborate on any project which involve DevOps or Banckend Development.
-- 📫 How to reach me LinkedIn: https://www.linkedin.com/in/sharique-masood/
+# Sharique Masood
 
-<!---
-vSharique/vSharique is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+**Lead Engineer** | DevOps & Backend Development
+
+## About
+
+I design and build scalable backend systems and cloud infrastructure. My focus areas include:
+
+- **DevOps & Platform Engineering** — CI/CD pipelines, Kubernetes, infrastructure as code
+- **Backend Development** — Python, Go, distributed systems
+- **Cloud Architecture** — AWS, GCP, microservices design
+
+## Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sharique-masood/)
